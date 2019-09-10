@@ -1,4 +1,4 @@
-package upeu.edu.LibMaterialJRAC;
+package com.example.evelin;
 
 import org.junit.Test;
 

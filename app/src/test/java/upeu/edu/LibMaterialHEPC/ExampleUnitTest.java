@@ -1,4 +1,4 @@
-package com.example.joserac;
+package upeu.edu.LibMaterialHEPC;
 
 import org.junit.Test;
 
